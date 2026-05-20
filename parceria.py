@@ -14,7 +14,7 @@ with col1:
     st.link_button("Acessar SpaceX","https://www.spacex.com/")
 
 with col2:
-    st.image("apple.jpg",width=600)
+    st.image("apple.webp",width=600)
     st.title("Apple")
     st.write("é uma empresa multinacional norte-americana que tem o objetivo de projetar e comercializar produtos eletrônicos de consumo, software de computador e computadores pessoais. ")
     st.link_button("Acessar Apple","https://www.apple.com/br/")
