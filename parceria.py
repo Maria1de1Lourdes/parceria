@@ -4,7 +4,7 @@ cor_de_fundo = """
 <style>
 [data-testid="stAppViewContainer"] {
     background-color: #082032;
-    textColor= "#ffffff";
+    color: #ffffff;
 }
 </style>
 """
