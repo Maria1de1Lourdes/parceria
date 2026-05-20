@@ -1,9 +1,10 @@
 import streamlit as st
 
-cor_de_fundo = """
+cor_fundo = """
 <style>
 [data-testid="stAppViewContainer"] {
     background-color: #082032;
+    text-color:ffffff;
 }
 </style>
 """
