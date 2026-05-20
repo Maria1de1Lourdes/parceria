@@ -1,5 +1,14 @@
 import streamlit as st
 
+cor_de_fundo = """
+<style>
+[data-testid="stAppViewContainer"] {
+    background-color: #082032;
+}
+</style>
+"""
+st.markdown(cor_de_fundo, unsafe_allow_html=True)
+
 st.set_page_config(page_title="Parceria", page_icon="💻", layout="wide")
 st.title("Empresas Parceiras")
 st.write("interaja com nossas empresas parceiras.")
